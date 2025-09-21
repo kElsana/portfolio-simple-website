@@ -29,7 +29,7 @@ HTML5
 CSS3
 
 #How to view
-My first portfolio website using HTML & CSS – practice project in my MERN journey - link:
+My first portfolio website using HTML & CSS – practice project in my MERN journey - link:https://kelsana.github.io/portfolio-simple-website/
 
 
 ✨ This project marks the beginning of my full-stack development learning path.
